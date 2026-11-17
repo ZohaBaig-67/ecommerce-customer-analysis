@@ -1,0 +1,18 @@
+SETUP AND DEPLOYMENT
+
+1. Open this folder in VS Code.
+2. Create a virtual environment: python -m venv .venv
+3. Activate it: .venv\Scripts\activate
+4. Install packages: pip install -r requirements.txt
+5. Run dashboard: streamlit run app.py
+6. Create a public GitHub repository named ecommerce-customer-eda.
+7. Upload all project files and make at least five separate commits with clear messages.
+8. Go to share.streamlit.io, connect GitHub, select the repository, branch main, and app.py.
+9. Deploy, test filters and graphs, then paste the live URL into README.md.
+
+Suggested commit messages:
+- Add dataset and project structure
+- Add research questions and notebook setup
+- Add data quality and outlier analysis
+- Add univariate and bivariate analysis
+- Add Streamlit dashboard and documentation

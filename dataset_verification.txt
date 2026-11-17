@@ -1,0 +1,7 @@
+Rows: 500
+Columns: 8
+Missing values: 0
+Exact duplicate rows: 0
+Strongest numeric correlation with yearly spend: Length of Membership (0.8091)
+App-time correlation: 0.4993
+Website-time correlation: -0.0026
