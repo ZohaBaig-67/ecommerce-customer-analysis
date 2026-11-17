@@ -25,4 +25,4 @@ streamlit run app.py
 - `.gitignore` — ignores virtual environments and secrets
 
 ## Live app
-Add the deployed Streamlit URL here after deployment.
+https://ecommerce-customer-insights-2026.streamlit.app/
